@@ -38,8 +38,3 @@ function removeFirstDriver(){
  newDrivers.shift();
  return newDrivers;
 }
-
-Message Input
-
-
-Message @Elise
